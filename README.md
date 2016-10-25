@@ -13,10 +13,6 @@
 我們不只要Watch You！
 甚至還要  Catch You！
 
+![alt tag](https://github.com/teddyan/oose_0324076/blob/master/%E7%B3%BB%E7%B5%B1%E4%BB%8B%E9%9D%A2%E5%9C%96.jpg)
 
 ![alt tag](https://github.com/teddyan/oose_0324076/blob/master/%E6%B5%81%E7%A8%8B%E5%9C%96.png)
-
-
-
-
-![alt tag](https://github.com/teddyan/oose_0324076/blob/master/%E7%B3%BB%E7%B5%B1%E4%BB%8B%E9%9D%A2%E5%9C%96.jpg)
