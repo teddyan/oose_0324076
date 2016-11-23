@@ -28,7 +28,8 @@ Watch You , Catch You
 UseCase圖
   
 ![alt tag](https://github.com/teddyan/oose_0324076/blob/master/USECASE.png)
+  
+![alt tag](https://github.com/teddyan/oose_0324076/blob/master/UseCase_2.png)
 
-強韌圖
-
+強韌圖  
 ![alt tag](https://github.com/teddyan/oose_0324076/blob/master/%E5%BC%B7%E9%9F%8C%E5%9C%96.png)
