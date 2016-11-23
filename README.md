@@ -33,3 +33,6 @@ UseCase圖
 
 強韌圖  
 ![alt tag](https://github.com/teddyan/oose_0324076/blob/master/%E5%BC%B7%E9%9F%8C%E5%9C%96.png)
+
+強韌圖初始規格
+![alt tag](https://github.com/teddyan/oose_0324076/blob/master/%E5%BC%B7%E9%9F%8C%E5%9C%96%E4%B9%8B%E5%88%9D%E5%A7%8B%E8%A6%8F%E6%A0%BC.png)
