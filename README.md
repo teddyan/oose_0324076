@@ -23,3 +23,12 @@ Watch You , Catch You
 流程圖
 
 ![alt tag](https://github.com/teddyan/oose_0324076/blob/master/%E6%B5%81%E7%A8%8B%E5%9C%96.png)
+
+
+UseCase圖
+  
+![alt tag](https://github.com/teddyan/oose_0324076/blob/master/USECASE.png
+
+強韌圖
+
+![alt tag](https://github.com/teddyan/oose_0324076/blob/master/%E5%BC%B7%E9%9F%8C%E5%9C%96.png)
