@@ -36,3 +36,12 @@ UseCase圖
 
 強韌圖初始規格
 ![alt tag](https://github.com/teddyan/oose_0324076/blob/master/%E5%BC%B7%E9%9F%8C%E5%9C%96%E4%B9%8B%E5%88%9D%E5%A7%8B%E8%A6%8F%E6%A0%BC.png)
+登入AC循序圖
+
+![alt tag](https://github.com/teddyan/oose_0324076/blob/master/%E7%99%BB%E5%85%A5AC.png)
+歷史模式AC循序圖
+ 
+![alt tag](https://github.com/teddyan/oose_0324076/blob/master/%E6%AD%B7%E5%8F%B2%E6%A8%A1%E5%BC%8FAC.png)
+ 
+跑者模式AC循序圖
+![alt tag](https://github.com/teddyan/oose_0324076/blob/master/%E8%B7%91%E8%80%85%E6%A8%A1%E5%BC%8FAC.png)
