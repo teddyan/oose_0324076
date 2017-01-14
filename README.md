@@ -50,4 +50,4 @@ UseCase圖
 ![alt tag](https://github.com/teddyan/oose_0324076/blob/master/%E5%85%83%E4%BB%B6%E5%9C%96%E4%BB%8B%E9%9D%A2_%E6%8F%90%E4%BE%9B%2B%E8%A6%81%E6%B1%82.png)
 
 元件圖介面_提供_要求
-![alt tag]https://github.com/teddyan/oose_0324076/blob/master/%E5%85%83%E4%BB%B6%E5%9C%96%E4%BB%8B%E9%9D%A2_%E9%97%9C%E4%BF%82.png
+![alt tag](https://github.com/teddyan/oose_0324076/blob/master/%E5%85%83%E4%BB%B6%E5%9C%96%E4%BB%8B%E9%9D%A2_%E7%9B%B8%E4%BE%9D%E9%97%9C%E4%BF%82.png)
