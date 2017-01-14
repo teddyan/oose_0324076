@@ -51,3 +51,6 @@ UseCase圖
 
 元件圖介面_相依關係
 ![alt tag](https://github.com/teddyan/oose_0324076/blob/master/%E5%85%83%E4%BB%B6%E5%9C%96%E4%BB%8B%E9%9D%A2_%E7%9B%B8%E4%BE%9D%E9%97%9C%E4%BF%82.png)
+分工
+![alt tag]
+(https://github.com/teddyan/oose_0324076/blob/master/%E5%88%86%E5%B7%A5.png)
